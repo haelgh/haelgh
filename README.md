@@ -29,6 +29,9 @@ Interested in applied artificial intelligence, data workflows, and the intersect
 
 ## 🔹 Highlighted Projects
 
+- **[Hybrid Deep Forecasting – GMDH + Neo-Fuzzy](https://github.com/haelgh/hybrid-deep-forecasting)**
+  Comparative study of hybrid deep learning models for time series forecasting. Combines GMDH polynomial layers with a Neo-Fuzzy output and benchmarks against an MLP baseline.
+
 - **[Traffic Sign Classification & Incremental Learning](https://github.com/haelgh/traffic-sign-classification)**  
   Classification of traffic signs using a CNN trained on the GTSRB dataset. The project explores incremental learning techniques including rehearsal, EWC, and distillation.
 
@@ -43,8 +46,9 @@ Interested in applied artificial intelligence, data workflows, and the intersect
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haelgh&show_icons=true&theme=default"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haelgh&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=haelgh&show_icons=true&theme=default"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=haelgh"/>
 </p>
 
 ---
