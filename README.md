@@ -45,8 +45,8 @@ Interested in applied artificial intelligence, data workflows, and the intersect
 
 ## 📈 GitHub Stats
 
-![Olha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=olhatytarenko&show_icons=true&theme=default)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olhatytarenko&layout=compact)
+![Olha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=haelgh&show_icons=true&theme=default)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haelgh&layout=compact)
 
 ---
 
