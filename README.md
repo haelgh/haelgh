@@ -4,53 +4,57 @@ Computer Science student at Igor Sikorsky Kyiv Polytechnic Institute (Ukraine), 
 
 Interested in applied artificial intelligence, data workflows, and the intersection of machine learning with real-world tasks. My current work includes hands-on experimentation with neural network training, reproducible pipelines, and automation of routine processes.
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white"/>
+</p>
+
 ---
 
-## 🧠 Interests
+## 🔍 Interests
 
 - Deep learning and neural network optimization  
 - Incremental learning and memory-efficient adaptation  
-- NLP and multilingual text classification (ongoing thesis)  
+- NLP and multilingual text classification  
 - Time series analysis and forecasting  
 - Code quality, structure, and automation of data tasks
 
 ---
 
-## 🛠 Tech & Tools
+## 🔹 Highlighted Projects
 
-**Languages**: Python, Java, С/C++  
-**Tools**: Git, Docker, VSCode, LaTeX, Jupyter, SQL  
-**Topics of interest**: continual learning, applied ML, reproducibility, automation
+- **[Traffic Sign Classification & Incremental Learning](https://github.com/haelgh/traffic-sign-classification)**  
+  Classification of traffic signs using a CNN trained on the GTSRB dataset. The project explores incremental learning techniques including rehearsal, EWC, and distillation.
 
----
+- **[Kindergarten Payments – Full-Stack App](https://github.com/haelgh/KindergartenPayments)**  
+  Java + Spring Boot + React application for managing kindergarten payment records. Demonstrates full-stack CRUD operations and SQL database integration.
 
-## 📌 Highlighted Projects
-
-- **Traffic Sign Classification & Incremental Learning**  
-  CNN-based image classifier trained on the GTSRB dataset with a focus on overcoming catastrophic forgetting.  
-  Explored rehearsal buffers, EWC, and knowledge distillation for continual learning in PyTorch.  
-  [View project](https://github.com/haelgh/traffic-sign-classification)
-  
-- **Kindergarten Payments – Full-Stack App**  
-  Java + Spring Boot + React application for managing kindergarten payment records.  
-  Demonstrates full-stack CRUD operations, REST API handling, and MySQL integration.  
-  [View project](https://github.com/haelgh/KindergartenPayments)
-
-- **Stationarity & Decomposition of Financial Time Series**  
-  Analysis of stock market data using statistical tests (ADF, KPSS) and time series decomposition.  
-  Implemented in Python with Pandas, Statsmodels, and Matplotlib.  
-  [View project](https://github.com/haelgh/financial-time-series-analysis)
+- **[Financial Time Series Analysis](https://github.com/haelgh/financial-time-series-analysis)**  
+  Analysis of financial time series using ADF and KPSS stationarity tests, STL decomposition, and ARIMA-GARCH forecasting. Implemented in Python.
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![Olha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=haelgh&show_icons=true&theme=default)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haelgh&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=haelgh&show_icons=true&theme=default"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haelgh&layout=compact"/>
+</p>
 
 ---
 
-## 🤝 Contact
+## 💬 Contact
 
-Based in France 🇫🇷 (for now), originally from Ukraine 🇺🇦  
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/olha--tytarenko/)
+<p align="center">
+🇫🇷 based in France, 🇺🇦 originally from Ukraine  
+<a href="https://www.linkedin.com/in/olha--tytarenko/">LinkedIn</a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Current%20Focus-Incremental%20Learning-blueviolet?style=flat-square"/>
+</p>
