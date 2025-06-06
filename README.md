@@ -46,7 +46,7 @@ Interested in applied artificial intelligence, data workflows, and the intersect
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haelgh&layout=compact"/>
+  
   <img src="https://github-readme-stats.vercel.app/api?username=haelgh&show_icons=true&theme=default"/>
   <img src="https://github-profile-trophy.vercel.app/?username=haelgh"/>
 </p>
